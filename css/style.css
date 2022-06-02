@@ -140,3 +140,8 @@ img {
 .cases img {
     height: 25%;
 }
+
+/* Team styling */
+.team img {
+    border-radius: 50%;
+}
